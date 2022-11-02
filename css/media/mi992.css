@@ -1,0 +1,22 @@
+
+
+/* 
+
+&&& medium 
+
+
+*/
+
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+
+
+    /* .card .container .body .left ul li {
+        padding-right: 0;
+    } */
+
+
+}
+

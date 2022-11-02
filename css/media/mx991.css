@@ -1,0 +1,43 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+    /* .card .container .body {
+        justify-content: space-between;
+    }
+
+    .card .container .body .left {
+        flex-basis: 30%;
+    }
+
+    .card .container .body .left ul {
+        padding-left: 65px;
+    }
+
+    .card .container .body .right {
+        flex-direction: column;
+        align-items: center;
+        flex-basis: 70%;
+    }
+
+    .card .container .body .right .img {
+        width: 200px;
+    }
+
+    .card .container .body .right .text {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+ */
+
+
+/* =========== start about ============== */
+.about {
+    flex-direction: column;
+}
+
+
+}

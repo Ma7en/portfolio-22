@@ -1,0 +1,108 @@
+
+@media (max-width: 767px) {
+
+
+
+/* =========== start card ============= */
+
+    .card {
+        padding-left: 15px ;
+        padding-right: 15px ;
+    }
+
+
+
+
+
+/* =========== start content ============= */
+/* .body > .content {
+    flex-basis: 1;
+    width: 100%;
+} */
+
+.card .content section {
+    padding-top: 45px;
+}
+
+
+
+/* =========== start top ============= */
+
+    .card .top {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .card .top .day-night {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+
+    .card .top .icon p {
+        text-align: left;
+    }
+
+    .card .top .icon {
+        text-align: center;
+    }
+
+
+
+
+/* =========== start aside ============= */
+
+    .aside {
+        position: absolute;
+        left: -200px;
+    }
+
+    .aside.open {
+        position: absolute;
+        left: 0%;
+        width: 100%;
+        max-width: 200px;
+    }
+
+
+
+/* =========== start content ============== */
+
+    .content .nav-toggler {
+        display: flex;
+    }
+
+    .content .nav-toggler.open {
+        left: 210px;
+    }
+
+
+
+
+/* =========== start about ============== */
+
+.content {
+    flex-basis: auto;
+}
+
+
+
+
+
+/* =========== start about ============== */
+.about .box_cont {
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
